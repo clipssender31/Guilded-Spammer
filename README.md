@@ -13,3 +13,5 @@ The first guilded.gg tool kit meant for spamming a Guilded server
 
 # Where do I get accounts?
 * I will be releasing browser based (mail verified) account creator with proxy support
+
+thanks to vichy the scammer for the guilded wrapper
