@@ -9,6 +9,7 @@ The first guilded.gg tool kit meant for spamming a Guilded server
 # Contact 
 * Discord Server - https://discord.gg/wrNbhMeQeW
 * Telegram - @lilclip
+* Guilded Server - https://www.guilded.gg/i/kjedZWo2
 * Discord User -  Can be found in the server above
 
 # Where do I get accounts?
