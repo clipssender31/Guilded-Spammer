@@ -13,4 +13,4 @@ The first guilded.gg tool kit meant for spamming a Guilded server
 * Discord User -  Can be found in the server above
 
 # Where do I get accounts?
-* I will be releasing browser based (mail verified) account creator with proxy support
+* I will be releasing browser based (mail verified) account creator with proxy support.
