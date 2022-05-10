@@ -2,14 +2,14 @@
 The first guilded.gg tool kit meant for spamming a Guilded server
 
 # How to use it:
-* Input your Accounts into ./Data/Accounts.txt
-* Input your Proxies into ./Data/Proxies.txt
+* Input your Accounts into ./Data/Accounts.txt (email:pass)
+* Input your Proxies into ./Data/Proxies.txt (ip:port or user:pass@ip:port)
 * Run either joiner.py or spammer.py (follow the menu and do what it says)
 
 # Contact 
 * Discord Server - https://discord.gg/wrNbhMeQeW
 * Telegram - @lilclip
-* Guilded Server - https://www.guilded.gg/i/kjedZWo2
+* Guilded Server - https://www.guilded.gg/i/kjedZWo2 **Banned**
 * Discord User -  Can be found in the server above
 
 # Where do I get accounts?
