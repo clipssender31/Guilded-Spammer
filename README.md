@@ -11,6 +11,7 @@ The first guilded.gg tool kit meant for spamming a Guilded server
 * Telegram - @lilclip
 * Guilded Server - https://www.guilded.gg/i/kjedZWo2 **Banned**
 * Discord User -  Can be found in the server above
+* btw the guilded wrapper is from its_vichy, thanks to him :)
 
 # Where do I get accounts?
 * I will be releasing browser based (mail verified) account creator with proxy support.
